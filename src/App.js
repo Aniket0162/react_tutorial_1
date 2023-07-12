@@ -3,23 +3,14 @@ import logo from './logo.svg';
 import './App.css';
 const App = () => {
   return (
-
-
     <div>
-    <h3>Downloaded all the requied application to run the react code like</h3>
-    <p>
-      1. Downloaded Node Module for running javaScript with out a browser.
-      2. Downloaded Vs code Editior for performing code.
-      3. Then Downloaded react dev tool. React Dev Tools is an extension created by the React team. It enables developers to debug their code inside their Developer Tools. Once you add the extension, you will get 2 new tabs in DevTools called Components and Profiler, respectively. To use the full functionality of the extension, you need to be in development mode.
-
-      4. then we open vs code Downloaded some extension that will help to perform react app fast and efficient.
-          a. Prettier.
-          b. Bracket pair colorizor.
-          c. Auto renamer .
-          d. Es7 react redux library.
-          e. Thunder Client.
-
-    </p>
+    <h2>Day 2</h2>
+      <p>
+        Learn how to creat react app : npx creat-react-app (file name) 
+        Learn about all the folders of react app folders & its structure.
+        learn about basic of props and state.
+        how to run react app.
+      </p>
     
   </div>
   )
